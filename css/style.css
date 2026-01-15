@@ -17,9 +17,6 @@ body{
     padding: 15px 20px;
 }
 
-
-
-
 .navbar .brand {
     font-size: 1.5rem;        
     font-weight: bold;         
@@ -75,3 +72,21 @@ footer {
     font-size: 0.9rem;         
 }
 
+
+/* About Page */
+
+.content {
+    max-width: 800px;      
+    margin: 40px auto;     
+    padding: 0px 20px;       
+    line-height: 1.6;   
+}   
+
+.content h2 {
+    margin-top: 30px;      
+    color: #b34747;        
+}
+
+.content p {
+    margin-top: 10px;      
+}
