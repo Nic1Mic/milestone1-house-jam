@@ -133,18 +133,20 @@ Wireframe tool used: [A link to Figma Desktop version Wireframing](https://www.f
 
 ## 5. Folder Structure
 
+```text
 milestone1-house-jam/
 │
 ├── images/
 │   ├── wireframes/
 │   └── testing/
 ├── css/
-│ └── style.css
+│   └── style.css
 ├── index.html
 ├── about.html
 ├── products.html
 ├── contact.html
 └── README.md
+```
 
 ---
 
@@ -164,7 +166,7 @@ milestone1-house-jam/
 
 Live URL:
 
-https://nic1mic.github.io/milestone1-house-jam/
+![House Jam](https://nic1mic.github.io/milestone1-house-jam/)
 
 ---
 
@@ -174,6 +176,8 @@ To run the project locally:
 
 ```bash
 git clone https://github.com/Nic1Mic/milestone1-house-jam.git
+```
+
 
 ---
 
