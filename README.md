@@ -2,7 +2,7 @@
 
 Live website: 
 
-![House Jam Logo](https://nic1mic.github.io/milestone1-house-jam/)
+![House Jam](https://nic1mic.github.io/milestone1-house-jam/)
 
 ---
 
