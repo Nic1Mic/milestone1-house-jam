@@ -91,6 +91,9 @@ footer {
     margin-top: 10px;      
 }
 
+/* Google Maps embedded using official documentation:
+     https://developers.google.com/maps/documentation/embed/embedding-map*/
+
 
 /* Two-column Contact Section */
 .contact-section {
@@ -215,6 +218,10 @@ footer {
     grid-template-columns: repeat(3, 1fr); /* 3 columns */
     gap: 30px;
 }
+
+/* Card hover referenced from:
+    https://codepen.io/jorgesanes10/pen/QdMEXr
+*/
 
 /* Product cards */
 .product-card {
@@ -409,6 +416,9 @@ footer {
         transform: translateY(0);
     }
 }
+
+/* Text animation technique inspired by:
+   https://animate.style*/
 
 .hero h1 {
     animation: fadeUp 1s ease-out forwards;
