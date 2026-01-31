@@ -118,6 +118,7 @@ Wireframe tool used: [A link to Figma Desktop version Wireframing](https://www.f
 - Contact form
 - Google Maps integration
 - Mobile responsive layout
+- Click product images to show ingredient information
 
 ---
 
