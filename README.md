@@ -208,7 +208,7 @@ The homepage clearly shows the brand using a hero section, welcoming text, and f
 **User Story:**  
 _As a user, I want to see what jam products are available and how much they cost._
 
-![Products Page Screenshot](images/final-product/products-page.png)
+![Products Page Screenshot](images/final-product/Products-page.png)
 
 The products page displays a clear grid layout showing product images, names, prices, and enquiry options.
 
