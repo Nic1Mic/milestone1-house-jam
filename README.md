@@ -11,6 +11,9 @@ Live website:
 
 House Jam is a simple front-end website that serves a small family business that sells homemade jams. The website gives people a fast way to get to know the brand and allows them to check out the jams and reach out to place an order or inquire about them.
 
+![Responsiveness](images/testing/responsiveness.png)
+
+
 The site also allows customers to see what’s available — and how much it costs — without having to pop in to the store. The site is welcoming and simple, and works well on any device.
 
 
