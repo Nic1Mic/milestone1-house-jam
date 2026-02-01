@@ -219,7 +219,7 @@ The products page displays a clear grid layout showing product images, names, pr
 **User Story:**  
 _As a user, I want to see what ingredients are used in each product._
 
-![Product Ingredients Screenshot](images/final-product/products-page.png)
+![Product Ingredients Screenshot](images/final-product/Products-page.png)
 
 Ingredient information is revealed using a CSS-based image overlay interaction, allowing users to view details without leaving the page.
 
@@ -242,7 +242,7 @@ The contact page provides a contact form to help users reach the business easily
 **User Story:**  
 _As a returning user, I want to quickly find products and prices._
 
-![Products Page Screenshot](images/final-product/products-page.png)
+![Products Page Screenshot](images/final-product/Products-page.png)
 
 The products page allows returning users to immediately view product names, prices, and enquiry buttons without unnecessary navigation.
 
@@ -254,7 +254,7 @@ The products page allows returning users to immediately view product names, pric
 **User Story:**  
 _As a frequent user, I want a consistent and familiar layout._
 
-![Navigation Screenshot](images/final-product/home-page.png)
+![Navigation Screenshot](images/final-product/Home-page.png)
 
 The consistent navigation bar and page structure across all pages ensures ease of use for frequent visitors.
 
