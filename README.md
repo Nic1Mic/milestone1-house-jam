@@ -2,7 +2,8 @@
 
 Live website: 
 
-![House Jam](https://nic1mic.github.io/milestone1-house-jam/)
+[![House Jam Logo](images/final-product/logo.png)](https://nic1mic.github.io/milestone1-house-jam/)
+
 
 ---
 
@@ -167,7 +168,8 @@ milestone1-house-jam/
 
 Live URL:
 
-![House Jam](https://nic1mic.github.io/milestone1-house-jam/)
+[House Jam](https://nic1mic.github.io/milestone1-house-jam/)
+
 
 ---
 
@@ -186,7 +188,75 @@ git clone https://github.com/Nic1Mic/milestone1-house-jam.git
 
 Testing was carried out continuously throughout development and again after deployment to ensure the website is functional, responsive, accessible, and free from major usability issues.
 
+### Testing User Stories from User Experience (UX) Section
+
+
+#### First-time Visitor – Understand the brand
+
+**User Story:**  
+_As a first-time visitor, I want to quickly understand what House Jam is._
+
+![Home Page Screenshot](images/final-product/Home-page.png)
+
+The homepage clearly shows the brand using a hero section, welcoming text, and featured products.
+
 ---
+
+#### User – Browse products and prices
+
+**User Story:**  
+_As a user, I want to see what jam products are available and how much they cost._
+
+![Products Page Screenshot](images/final-product/products-page.png)
+
+The products page displays a clear grid layout showing product images, names, prices, and enquiry options.
+
+---
+
+#### User – View product details (ingredients)
+
+**User Story:**  
+_As a user, I want to see what ingredients are used in each product._
+
+![Product Ingredients Screenshot](images/final-product/products-page.png)
+
+Ingredient information is revealed using a CSS-based image overlay interaction, allowing users to view details without leaving the page.
+
+---
+
+#### User – Contact the business
+
+**User Story:**  
+_As a user, I want to easily contact the business to make an enquiry._
+
+![Contact Page Screenshot](images/final-product/Contact-page.png)
+
+The contact page provides a contact form to help users reach the business easily.
+
+---
+
+#### Returning Visitor – Quick access to products and prices
+
+
+**User Story:**  
+_As a returning user, I want to quickly find products and prices._
+
+![Products Page Screenshot](images/final-product/products-page.png)
+
+The products page allows returning users to immediately view product names, prices, and enquiry buttons without unnecessary navigation.
+
+---
+
+#### Frequent User – Consistent navigation and layout
+
+
+**User Story:**  
+_As a frequent user, I want a consistent and familiar layout._
+
+![Navigation Screenshot](images/final-product/home-page.png)
+
+The consistent navigation bar and page structure across all pages ensures ease of use for frequent visitors.
+
 
 ### 7.1 Manual Testing
 
@@ -233,6 +303,23 @@ Accessibility considerations included:
 - Responsive layout for different screen sizes
 - Clear navigation structure
 
+
+### HTML Validation
+
+All HTML pages were tested using the W3C HTML Validator with no errors.
+
+![HTML Index Validator Results](images/validators/index-html-validator.png)
+![HTML Products Validator Results](images/validators/products-html-validator.png)
+![HTML About Validator Results](images/validators/about-html-validator.png)
+![HTML Contact Validator Results](images/validators/contact-html-validator.png)
+
+---
+
+### CSS Validation
+
+The CSS file was tested using the W3C CSS Validator (Jigsaw) with no errors.
+
+![CSS Validator Results](images/validators/css-validator.png)
 
 ---
 
@@ -299,6 +386,13 @@ Overall, the website achieved high scores in accessibility and best practices, c
 - Product grid with prices and buttons the hover part: https://codepen.io/jorgesanes10/pen/QdMEXr
 
 ---
+
+- Social media icons provided by Font Awesome  
+  https://fontawesome.com
+
+---
+
+- Image overlay and reveal techniques (used for product ingredient):  https://www.w3schools.com/howto/howto_css_image_overlay.asp
 
 ### Images
 
