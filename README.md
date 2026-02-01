@@ -139,6 +139,7 @@ Wireframe tool used: [A link to Figma Desktop version Wireframing](https://www.f
 milestone1-house-jam/
 │
 ├── images/
+│   ├── final-product/
 │   ├── wireframes/
 │   └── testing/
 ├── css/
