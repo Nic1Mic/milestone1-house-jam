@@ -523,3 +523,8 @@ https://www.w3schools.com/howto/howto_css_image_overlay.asp*/
     transform: scale(1.2);
 }
 
+
+.hero .home-cta {
+    position: relative;
+    z-index: 1;
+}

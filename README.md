@@ -123,6 +123,7 @@ Wireframe tool used: [A link to Figma Desktop version Wireframing](https://www.f
 - Google Maps integration
 - Mobile responsive layout
 - Click product images to show ingredient information
+- Contact form redirects to a confirmation landing page after submission to improve user feedback.
 
 ---
 
@@ -151,6 +152,7 @@ milestone1-house-jam/
 ├── about.html
 ├── products.html
 ├── contact.html
+├── thankyou.html
 └── README.md
 ```
 
@@ -200,7 +202,7 @@ Testing was carried out continuously throughout development and again after depl
 **User Story:**  
 _As a first-time visitor, I want to quickly understand what House Jam is._
 
-![Home Page Screenshot](images/final-product/Home-page.png)
+![Home Page Screenshot](images/final-product/home-page.png)
 
 The homepage clearly shows the brand using a hero section, welcoming text, and featured products.
 
@@ -211,7 +213,7 @@ The homepage clearly shows the brand using a hero section, welcoming text, and f
 **User Story:**  
 _As a user, I want to see what jam products are available and how much they cost._
 
-![Products Page Screenshot](images/final-product/Products-page.png)
+![Products Page Screenshot](images/final-product/products-page.png)
 
 The products page displays a clear grid layout showing product images, names, prices, and enquiry options.
 
@@ -222,7 +224,7 @@ The products page displays a clear grid layout showing product images, names, pr
 **User Story:**  
 _As a user, I want to see what ingredients are used in each product._
 
-![Product Ingredients Screenshot](images/final-product/Products-page.png)
+![Product Ingredients Screenshot](images/final-product/products-page.png)
 
 Ingredient information is revealed using a CSS-based image overlay interaction, allowing users to view details without leaving the page.
 
@@ -233,7 +235,7 @@ Ingredient information is revealed using a CSS-based image overlay interaction, 
 **User Story:**  
 _As a user, I want to easily contact the business to make an enquiry._
 
-![Contact Page Screenshot](images/final-product/Contact-page.png)
+![Contact Page Screenshot](images/final-product/contact-page.png)
 
 The contact page provides a contact form to help users reach the business easily.
 
@@ -245,7 +247,7 @@ The contact page provides a contact form to help users reach the business easily
 **User Story:**  
 _As a returning user, I want to quickly find products and prices._
 
-![Products Page Screenshot](images/final-product/Products-page.png)
+![Products Page Screenshot](images/final-product/products-page.png)
 
 The products page allows returning users to immediately view product names, prices, and enquiry buttons without unnecessary navigation.
 
@@ -257,7 +259,7 @@ The products page allows returning users to immediately view product names, pric
 **User Story:**  
 _As a frequent user, I want a consistent and familiar layout._
 
-![Navigation Screenshot](images/final-product/Home-page.png)
+![Navigation Screenshot](images/final-product/home-page.png)
 
 The consistent navigation bar and page structure across all pages ensures ease of use for frequent visitors.
 
